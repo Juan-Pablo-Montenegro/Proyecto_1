@@ -18,7 +18,7 @@ Planetas similares a la Tierra (67% MgSiO₃ + 33% Fe): $m_1 = 6.41$ y $r_1 = 2.
 
 Planetas de silicatos puros (100% MgSiO₃): $m_1 = 7.38$ y $r_1 = 3.58$
 
-Planetas de tres capas (Fe + MgSiO₃ + H₂O:$ m_1 = 6.41$ y $r_1 = 3.6$
+Planetas de tres capas (Fe + MgSiO₃ + H₂O: $m_1 = 6.41$ y $r_1 = 3.6$
 
 Planetas de agua pura (100% H₂O): $m_1 = 8.16$ y $r_1 = 4.73$
 
@@ -27,6 +27,8 @@ Un planeta rocoso es aquel cuya atmosfera tiene un tamaño despreciable comparad
 Entre la curva de hierro puro y la curva de 67% MgSiO₃ + 33% Fe están los planetas que son más densos que nuestro planeta, pero menos densos que el hierro. Aquí estarían los demás candidatos razonables a ser planetas rocosos densos, sin embargo, no podemos estar seguro de ello pues podrían estar hechos de materiales densos y tener una atmosfera de un tamaño no despreciable, lo que los descatalogaría como planetas rocosos.
 
 Todos los planetas que están por encima de la curva de 67% MgSiO₃ + 33% Fe, pero debajo de alguna de las curvas de 100% MgSiO₃ y de Fe + MgSiO₃ + H₂ son planetas que podrían ser rocosos, pero que su densidad sugiere que no lo son. Si fuesen planetas rocosos serían planetas compuestos principalmente por silicatos.
+
+El color de las anteriores curvas se escogió siguiendo una escala de café. Entre más oscuro sea el color, más probable es que sea un planeta rocoso.
 
 Los planetas de color azul son planetas que para que sean rocosos deben estar hechos principamente de agua o de materiales con una densidad similar. Lo esperado es que planetas con esta densidad sean gaseosos tal cómo ocurre con Jupiter que estaría pintado de este color.
 
